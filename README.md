@@ -1,11 +1,11 @@
-# Serverless
 
-# Serverless Submission Processor (Python)
+
+# Serverless Submission Processor (Lambda Function)
 
 This project implements a serverless architecture to handle and process user submissions using AWS Lambda. The functionality includes downloading a file from a provided URL, validating the file format, uploading it to Google Cloud Storage (GCS), sending a status email to the user, and logging the results in DynamoDB.
 
 ---
-
+### continuation of the previous project Webapplication
 ## How It Works
 
 1. **Triggered by SNS**:
